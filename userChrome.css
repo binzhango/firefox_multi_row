@@ -1,5 +1,8 @@
 /**
-https://www.reddit.com/r/firefox/comments/726p8u/multirow_tabs_firefox_ignores_mozboxflex/dngb8qf/
+about:suppport
+about:config
+create chrome folder under ****.default
+create a file userChrome.css
 */
 
 .tabbrowser-tab:not([pinned]) {
